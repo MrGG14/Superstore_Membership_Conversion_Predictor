@@ -1,4 +1,5 @@
-# Superstore_Supervised_Learning
+# Superstore_Offer_Acceptance_Predictor
+
 Context:
 
 A superstore is planning for the year-end sale. They want to launch a new offer - gold membership, that gives a 20% discount on all purchases, for only 499
