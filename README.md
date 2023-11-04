@@ -1,4 +1,4 @@
-# Superstore_Offer_Acceptance_Predictor
+# Superstore_Offer_Response_Predictor
 
 Context:
 
