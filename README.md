@@ -1,4 +1,4 @@
-# Superstore_Offer_Response_Predictor
+# Superstore Membership Conversion Predictor
 
 Context:
 
